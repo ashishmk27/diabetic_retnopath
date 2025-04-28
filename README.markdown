@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection with TensorFlow
+# Diabetic Retinopathy Detection with TensorFlow(with use of GPU)
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow to classify retinal images for diabetic retinopathy severity. The model is trained on the APTOS 2019 Blindness Detection dataset from Kaggle, which contains retinal images labeled with severity levels from 0 (No DR) to 4 (Proliferative DR).
 
